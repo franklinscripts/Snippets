@@ -1,12 +1,12 @@
 # Snippets
-#URL
+# URL
 https://playful-churros-80646d.netlify.app/
 
-##Setup 
+## Setup 
 `copy url path`
-#Goto your terminal and run
+* Goto your terminal and run
 `git clone url`
-#Then run 
+* Then run 
 `npm install` 
-#To view on your local machine run
+* To view on your local machine run
 `npm run dev`
